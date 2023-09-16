@@ -3,3 +3,4 @@
 - 开发引擎：Gotdot
 ## 演示视频：
 [https://github.com/SliverySky/Ball-Game/blob/main/Ball.mp4](https://github.com/SliverySky/Ball-Game/blob/main/Ball.mp4)
+![Loading](https://github.com/SliverySky/Ball-Game/blob/main/Ball.png)
